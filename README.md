@@ -4,8 +4,8 @@ This repo contains the source code for web application of the project "Improved 
 
 ```bash
 # Clone and setup the local dev server
-git clone https://github.com/adityaprakash-bobby/ecomm
-cd ecomm/
+git clone https://github.com/arijeetsat/Dell-Recommender-System/
+cd ecomm-master.zip/
 python3 -m venv virtualenv
 . virtualenv/bin/activate
 pip install -r requirements.txt
